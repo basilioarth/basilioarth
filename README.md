@@ -45,7 +45,7 @@ I'm currently majoring in Computer Science and studying to become a better Full 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilioarth&show_icons=true&hide_border=true&layout=compact&langs_count=7"/>
 </details>
 
-<a href="https://www.linkedin.com/in/arthur-bas%C3%ADlio-1aa538220/" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="http://linkedin.com/in/basilioarth" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg"/></a>
 <br/>
 
