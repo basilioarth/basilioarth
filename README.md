@@ -14,9 +14,9 @@ My name is Arthur and It's really nice to meet you! I'm just a boy passionate ab
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="24px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/></a>
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 <br/>
 
 #### Frameworks:
@@ -28,11 +28,11 @@ My name is Arthur and It's really nice to meet you! I'm just a boy passionate ab
 
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="springboot" width="28px" heigth="28px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png"/></a>
 
-<br />
+<br/>
 
 #### Tools:
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img href="https://code.visualstudio.com/" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26"/>
   
 <br/>
@@ -45,5 +45,5 @@ My name is Arthur and It's really nice to meet you! I'm just a boy passionate ab
 </details>
 
 <a href="https://www.linkedin.com/in/arthur-bas%C3%ADlio-1aa538220/" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-<a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg" /></a>
+<a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg"/></a>
 <br/>
