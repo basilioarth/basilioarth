@@ -47,3 +47,5 @@ My name is Arthur and It's really nice to meet you! I'm just a boy passionate ab
 <a href="https://www.linkedin.com/in/arthur-bas%C3%ADlio-1aa538220/" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg"/></a>
 <br/>
+
+![Snake animation](https://github.com/basilioarth/basilioarth/blob/output/github-contribution-grid-snake.svg)
