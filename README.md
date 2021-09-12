@@ -1,8 +1,6 @@
-
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello there! What's new?
-
 <!--
-<img align="right" src="https://raw.githubusercontent.com/basilioarth/utils/master/backgrounds/programmer.png?token=APQVA3EYF6ZM6VB5PI4CBMTBI2L7C" width="400">
+<img align="right" src="https://raw.githubusercontent.com/basilioarth/utils/master/backgrounds/bg-6.png?token=APQVA3FXCMPTVPL5XBPL4GDBI2PFS" width="400">
 <br/>
 -->
 My name is Arthur and It's really nice to meet you! I'm just a boy passionate about developing applications and trying to transform people's reality through technology and innovations. I am currently majoring in Computer Science and studying to become a better Full Stack Developer.
