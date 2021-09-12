@@ -41,7 +41,7 @@ My name is Arthur and It's really nice to meet you! I'm just a boy passionate ab
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basilioarth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilioarth&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilioarth&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <a href="https://www.linkedin.com/in/arthur-bas%C3%ADlio-1aa538220/" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
