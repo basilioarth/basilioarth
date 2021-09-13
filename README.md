@@ -46,7 +46,7 @@ I'm currently majoring in Computer Science and studying to become a better Full 
 </details>
 
 <a href="http://linkedin.com/in/basilioarth" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/basilioarth/utils/blob/master/icons/linkedin.png" /></a>
-<a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/basilioarth/utils/blob/master/icons/mail.svg"/></a>
+<a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="22px" src="https://github.com/basilioarth/utils/blob/master/icons/mail.png"/></a>
 <br/>
 
 ![Snake animation](https://github.com/basilioarth/basilioarth/blob/output/github-contribution-grid-snake.svg)
