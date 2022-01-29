@@ -7,17 +7,15 @@ I'm currently majoring in Computer Science and studying to become a better Full 
 <br/>
   
 #### Languages:
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/></a>
-
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="24px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/></a>
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 <br/>
 
 #### Frameworks:
