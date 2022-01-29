@@ -1,31 +1,33 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello there! What's new?
-  
-<img align="right" alt="javascript" width="500px" src="https://github.com/basilioarth/utils/blob/master/backgrounds/developer5.png?raw=true"/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basilioarth/)
+[![Linkedin Badge](https://img.shields.io/badge/-Email-0e76a8?style=flat-square&logo=Gmail&logoColor=white)](mailto:basilio.arth@gmail.com)
+
+<img align="right" alt="javascript" width="400px" src="https://github.com/basilioarth/utils/blob/master/backgrounds/developer4.png?raw=true"/>
   
 My name is Arthur and It's really nice to meet you! I'm just a boy passionate about developing applications and trying to transform people's reality through technology and innovations. 
-I'm currently majoring in Computer Science and studying to become a better Full Stack Developer.
+I'm currently majoring in Computer Science and studying TypeScript, ReactJS, AngularJs, React Native and NodeJs to become a better Full Stack Developer.
 <br/>
   
 #### Languages:
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
+<a target="_blank"><img align="left" alt="html5" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/html5.png"/></a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
+<a target="_blank"><img align="left" alt="css3" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/css3.png"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></a>
+<a target="_blank"><img align="left" alt="javaScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/javascript.png"/></a>
 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="typescript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></a>
+<a target="_blank"><img align="left" alt="typeScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/typescript.png"/></a>
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/></a>
+<a target="_blank"><img align="left" alt="python" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/python.png"/></a>
 <br/>
 
 #### Frameworks:
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="react" width="28px" heigth="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
+<a target="_blank"><img align="left" alt="react" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/react.png"/></a>
 
-<a href="https://angular.io/" target="_blank"> <img align="left" alt="angular" width="28px" heigth="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/></a>
+<a target="_blank"><img align="left" alt="nodejs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/nodejs.png"/></a>
 
-<a href="https://nodejs.org/en/about/" target="_blank"> <img align="left" alt="nodejs" width="28px" heigth="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></a>
+<a target="_blank"><img align="left" alt="angular" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/angular.png"/></a>
 
-<a href="https://spring.io/" target="_blank"> <img align="left" alt="springboot" width="28px" heigth="28px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png"/></a>
+<a href="https://spring.io/" target="_blank"> <img align="left" alt="springboot" width="24px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png"/></a>
 
 <br/>
 
@@ -42,9 +44,5 @@ I'm currently majoring in Computer Science and studying to become a better Full 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basilioarth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilioarth&show_icons=true&hide_border=true&layout=compact&langs_count=7"/>
 </details>
-
-<a href="http://linkedin.com/in/basilioarth" target="_blank"><img align="left" alt="linkedin" width="20px" height="20px" src="https://github.com/basilioarth/utils/blob/master/icons/linkedin.png" /></a>
-<a href="mailto:basilio.arth@gmail.com" target="_blank"><img align="left" alt="email" width="22px" height="20px" src="https://github.com/basilioarth/utils/blob/master/icons/mail.png"/></a>
-<br/>
 
 ![Snake animation](https://github.com/basilioarth/basilioarth/blob/output/github-contribution-grid-snake.svg)
