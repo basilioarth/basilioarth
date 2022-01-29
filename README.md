@@ -9,23 +9,23 @@ I'm currently majoring in Computer Science and studying TypeScript, ReactJS, Ang
 <br/>
   
 #### Languages:
-<a target="_blank"><img align="left" alt="html5" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/html5.png"/></a>
+<a href="https://dev.w3.org/html5/spec-LC/" target="_blank"><img align="left" alt="html5" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/html5.png"/></a>
 
-<a target="_blank"><img align="left" alt="css3" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/css3.png"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" alt="css3" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/css3.png"/></a>
 
-<a target="_blank"><img align="left" alt="javaScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/javascript.png"/></a>
+<a href="https://js.org/" target="_blank"><img align="left" alt="javaScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/javascript.png"/></a>
 
-<a target="_blank"><img align="left" alt="typeScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/typescript.png"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typeScript" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/typescript.png"/></a>
 
-<a target="_blank"><img align="left" alt="python" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/python.png"/></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="python" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/python.png"/></a>
 <br/>
 
 #### Frameworks:
-<a target="_blank"><img align="left" alt="react" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/react.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="reactjs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/react.png"/></a>
 
-<a target="_blank"><img align="left" alt="nodejs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/nodejs.png"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="nodejs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/nodejs.png"/></a>
 
-<a target="_blank"><img align="left" alt="angular" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/angular.png"/></a>
+<a href="https://angular.io/" target="_blank"><img align="left" alt="angular" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/angular.png"/></a>
 
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="springboot" width="24px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png"/></a>
 
