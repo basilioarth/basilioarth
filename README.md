@@ -5,7 +5,7 @@
 <img align="right" alt="javascript" width="400px" src="https://github.com/basilioarth/utils/blob/master/backgrounds/developer4.png?raw=true"/>
   
 My name is Arthur and It's really nice to meet you! I'm just a boy passionate about developing applications and trying to transform people's reality through technology and innovations. 
-I'm currently majoring in Computer Science and studying TypeScript, ReactJS, AngularJs, React Native and NodeJs to become a better Full Stack Developer.
+I'm currently majoring in Computer Science at UFPI and studying TypeScript, ReactJS, AngularJs, React Native and NodeJs to become a better Full Stack Developer.
 <br/>
   
 #### Languages:
