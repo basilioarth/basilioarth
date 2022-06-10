@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hello there! What's new?
+### Hello there! What's new?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basilioarth/)
 [![Linkedin Badge](https://img.shields.io/badge/-Email-0e76a8?style=flat-square&logo=Gmail&logoColor=white)](mailto:basilio.arth@gmail.com)
 
