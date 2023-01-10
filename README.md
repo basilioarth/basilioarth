@@ -23,11 +23,13 @@ I have a bachelor's degree in Computer Science from the Federal University of Pi
 #### Frameworks:
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="reactjs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/react.png"/></a>
 
-<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="nodejs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/nodejs.png"/></a>
-
 <a href="https://angular.io/" target="_blank"><img align="left" alt="angular" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/angular.png"/></a>
 
+<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="nodejs" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/nodejs.png"/></a>
+
 <a href="https://spring.io/" target="_blank"> <img align="left" alt="springboot" width="24px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png"/></a>
+
+<a href="https://docs.docker.com/" target="_blank"><img align="left" alt="docker" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/docker.png"/></a>
 
 <br/>
 
