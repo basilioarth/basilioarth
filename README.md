@@ -34,10 +34,11 @@ I have a bachelor's degree in Computer Science from the Federal University of Pi
 <br/>
 
 #### Tools & Skills:
-<a href="https://docs.docker.com/" target="_blank"><img align="left" alt="docker" width="24px" src="https://github.com/basilioarth/utils/blob/master/icons/docker.png"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26"/></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24"/></a>
+<a href="https://docs.docker.com/" target="_blank"><img align="left" alt="docker" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/docker.png"/></a>
+<a href="https://aws.amazon.com/pt/" target="_blank"><img align="left" alt="aws" width="26px" src="https://github.com/basilioarth/utils/blob/master/icons/aws-icon.png"/></a>
   
 <br/>
 
